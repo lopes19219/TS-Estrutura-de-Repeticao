@@ -15,3 +15,10 @@ console.log("100 -> " + classificarConsumo(100));
 console.log("101 -> " + classificarConsumo(101));
 console.log("220 -> " + classificarConsumo(220));
 console.log("221 -> " + classificarConsumo(221));
+
+/* Saídas:
+0 -> Até 100 kWh
+100 -> Até 100 kWh
+101 -> 101 a 220 kWh
+220 -> 101 a 220 kWh
+221 -> Acima de 220 kWh */
