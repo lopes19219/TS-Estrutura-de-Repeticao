@@ -26,3 +26,11 @@ console.log("3, 4, 5 -> " + classificarTriangulo(3, 4, 5));
 // Casos inválidos
 console.log("1, 2, 3 -> " + classificarTriangulo(1, 2, 3));
 console.log("0, 4, 5 -> " + classificarTriangulo(0, 4, 5));
+
+/* Saída: 
+
+3, 3, 3 -> Triângulo Equilátero
+5, 5, 3 -> Triângulo Isósceles
+3, 4, 5 -> Triângulo Escaleno
+1, 2, 3 -> Não forma um triângulo
+0, 4, 5 -> Não forma um triângulo */
