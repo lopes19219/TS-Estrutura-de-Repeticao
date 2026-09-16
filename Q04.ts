@@ -20,3 +20,10 @@ console.log(controlarAcesso("aluno"));
 console.log(controlarAcesso("professor"));
 console.log(controlarAcesso("coordenador"));
 console.log(controlarAcesso("visitante")); 
+
+/* Saída: 
+
+Acesso liberado para a área do aluno.
+Acesso liberado para a área do professor.
+Acesso liberado para a área do coordenador.
+Perfil desconhecido. Nenhuma permissão concedida. */
