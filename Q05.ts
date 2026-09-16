@@ -32,3 +32,11 @@ console.log(calcularValorFinal(101, false));
 console.log(calcularValorFinal(300, false));
 console.log(calcularValorFinal(301, true));
 console.log(calcularValorFinal(601, true));
+
+/* Saída: 
+
+Valor: R$ 100 | Desconto: 0% | Valor final: R$ 100.00
+Valor: R$ 101 | Desconto: 5% | Valor final: R$ 95.95
+Valor: R$ 300 | Desconto: 5% | Valor final: R$ 285.00
+Valor: R$ 301 | Desconto: 13% | Valor final: R$ 261.87
+Valor: R$ 601 | Desconto: 18% | Valor final: R$ 492.82 */
