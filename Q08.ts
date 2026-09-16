@@ -36,3 +36,13 @@ console.log(calcularFrete("SE", 600));
 console.log(calcularFrete("CO", 600));
 console.log(calcularFrete("S", 400));
 console.log(calcularFrete("X", 200));
+
+/* Saída: 
+
+Região: N | Pedido: R$ 300 | Frete: R$ 40
+Região: NE | Pedido: R$ 300 | Frete: R$ 25
+Região: NE | Pedido: R$ 600 | Frete: R$ 0
+Região: SE | Pedido: R$ 600 | Frete: R$ 0
+Região: CO | Pedido: R$ 600 | Frete: R$ 30
+Região: S | Pedido: R$ 400 | Frete: R$ 35
+Região inválida */
