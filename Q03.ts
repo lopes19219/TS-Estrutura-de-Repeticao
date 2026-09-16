@@ -43,4 +43,11 @@ Temperatura: 40
 Temperatura: 101
 - É maior que 100.
 - Resultado: Leitura inválida.
-*/
+
+ Saída: 
+
+ -25 -> Leitura inválida
+20 -> Normal
+30 -> Atenção
+40 -> Crítico
+101 -> Leitura inválida */
