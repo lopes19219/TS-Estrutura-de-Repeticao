@@ -24,3 +24,10 @@ console.log(calcularMedia(7, 7, 7));
 console.log(calcularMedia(5, 5, 5));
 console.log(calcularMedia(4.9, 5, 5));
 console.log(calcularMedia(10, 10, 11));
+
+/* Saída: 
+
+Média: 7.0 - Aprovado
+Média: 5.0 - Recuperação
+Média: 5.0 - Reprovado
+Notas inválidas */
