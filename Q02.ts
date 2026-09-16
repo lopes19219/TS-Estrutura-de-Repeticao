@@ -43,3 +43,10 @@ console.log(verificarBeneficio({
     cadastroAtivo: false,
     possuiIdoso: true
 }));
+
+/* Saída: 
+
+Elegível com prioridade
+Elegível
+Não elegível
+Não elegível */
